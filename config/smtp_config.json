@@ -1,0 +1,9 @@
+{
+  "_note": "SMTP settings for email distribution",
+  "host": "",
+  "port": 587,
+  "username": "",
+  "password": "",
+  "use_tls": true,
+  "from_address": ""
+}

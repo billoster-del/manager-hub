@@ -1,0 +1,11 @@
+{
+  "_note": "Populate with staff records from Dayforce",
+  "staff": [
+    {
+      "id": "",
+      "name": "",
+      "department": "",
+      "email": ""
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "_note": "Map Dayforce shift codes to display labels",
+  "mappings": {
+    "M": "Morning",
+    "A": "Afternoon",
+    "N": "Night",
+    "OFF": "Day Off"
+  }
+}

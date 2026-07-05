@@ -1,0 +1,11 @@
+services:
+  manager-hub:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+      - ./imports:/app/imports
+      - ./archive:/app/archive
+      - ./output:/app/output
+    command: uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload

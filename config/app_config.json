@@ -1,0 +1,9 @@
+{
+  "imports_dir": "imports",
+  "archive_dir": "archive",
+  "output_dir": "output",
+  "shift_mappings_file": "config/shift_mappings.json",
+  "staff_data_file": "config/staff_data.json",
+  "watcher_interval_seconds": 30,
+  "log_level": "INFO"
+}
